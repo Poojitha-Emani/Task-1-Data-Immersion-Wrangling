@@ -1,0 +1,10 @@
+customer_id,gender,age,country,signup_date,last_purchase_date,total_purchase_amount
+101,Male,25,India,2022-01-15,2023/03/10,15000
+102,Female,,USA,15-02-2022,2023-04-12,22000
+103,Female,30,UK,2022/03/20,,18000
+104,Male,45,India,2021-11-05,2023-02-18,55000
+104,Male,45,India,2021-11-05,2023-02-18,55000
+105,Female,22,Canada,2022-06-10,2023-01-25,9000
+106,Male,60,USA,2020-08-19,2023-05-30,120000
+107,Female,29,India,2021-12-01,2023/04/05,20000
+108,Male,,UK,2022-09-14,2023-03-01,30000
